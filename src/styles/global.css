@@ -1,0 +1,4 @@
+.transition-image-test {
+  view-transition-name: test-image;
+  contain: paint;
+}
